@@ -1,1 +1,2 @@
 this is just a text doc
+again modofictionfor git commit -a -m commiting
