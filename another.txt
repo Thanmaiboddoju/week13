@@ -1,2 +1,7 @@
-this is a txt file which is updated.
+-this is a txt file which is updated.
+-to open we use "notepad another.txt"
+-to connect local to global we use "git config --global user.name Thanmai
+  git config --global user.email thanmaiboddoju@gmail.com"
+-to remove catched file "git rm --cached file1"
+-if we just remove it wont be removed from staged files
 
